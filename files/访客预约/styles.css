@@ -8078,3 +8078,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u2321_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:44px;
+}
+#u2321 {
+  position:absolute;
+  left:3211px;
+  top:486px;
+  width:255px;
+  height:43px;
+  color:#FFFFFF;
+}
+#u2322 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:251px;
+  word-wrap:break-word;
+}
